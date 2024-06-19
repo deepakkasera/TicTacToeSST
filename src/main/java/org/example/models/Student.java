@@ -4,4 +4,5 @@ public class Student {
     private String name;
     private double psp;
     private String batch;
+    private int id;
 }
