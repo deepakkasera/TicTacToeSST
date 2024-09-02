@@ -2,7 +2,7 @@ package org.example.models;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// hi
 public class Board {
     private int size;
     private List<List<Cell>> board;
