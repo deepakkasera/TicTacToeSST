@@ -17,6 +17,7 @@ public class GameController {
 
     public void makeMove(Game game) throws InvalidMoveException {
         game.makeMove();
+        System.out.print("Hello");
     }
 
     public GameState checkState(Game game) {
