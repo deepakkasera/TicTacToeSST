@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Hello world!");
         Scanner scanner = new Scanner(System.in);
         GameController gameController = new GameController();
+        //This is a sample commit by Raguman//
+
 
         int dimension = 3;
         List<Player> players = List.of(
